@@ -1,33 +1,23 @@
-Desafio Classificador de nível de Herói da DIO - Professor Felipão
+**Desafio Classificador de Nível de Herói
+**
+**- Objetivo**
+Este projeto tem como objetivo criar um classificador de nível para heróis com base em sua experiência (XP). O desafio consiste em armazenar o nome de um herói e sua quantidade de experiência, utilizando estruturas de decisão para determinar seu nível com base nas faixas de XP.
 
-- *O Que foi utilizado*
-- Variáveis
-- Operadores
-- Estruturas de decisões
---------------------
-## Objetivo
+**- Regras de Classificação:**
+Ferro: XP menor que 1.000
+Bronze: XP entre 1.001 e 2.000
+Prata: XP entre 2.001 e 5.000
+Ouro: XP entre 5.001 e 7.000
+Platina: XP entre 7.001 e 8.000
+Ascendente: XP entre 8.001 e 9.000
+Imortal: XP entre 9.001 e 10.000
+Radiante: XP maior ou igual a 10.001
 
-Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
+**- Tecnologias Utilizadas**
+Variáveis: Para armazenar o nome e a experiência do herói.
+Operadores: Para realizar as comparações das faixas de XP.
+Estruturas de Decisão: Utilização de if/else para determinar o nível do herói.
 
-Se XP for menor do que 1.000 = Ferro
-
-Se XP for entre 1.001 e 2.000 = Bronze
-
-Se XP for entre 2.001 e 5.000 = Prata
-
-Se XP for entre 5.001 e 7.000 = Ouro
-
-Se XP for entre 7.001 e 8.000 = Platina
-
-Se XP for entre 8.001 e 9.000 = Ascendente
-
-Se XP for entre 9.001 e 10.000= Imortal
-
-Se XP for maior ou igual a 10.001 = Radiante
-
-
-## Saída
-
+**- Saída**
 Ao final deve se exibir uma mensagem:
-
 "O Herói de nome **{nome}** está no nível de **{nivel}**"
