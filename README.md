@@ -16,14 +16,14 @@ Imortal: XP entre 9.001 e 10.000
 Radiante: XP maior ou igual a 10.001
 
 
-  Tecnologias Utilizadas
+  Tecnologias Utilizadas:
 
 Variáveis: Para armazenar o nome e a experiência do herói.
 Operadores: Para realizar as comparações das faixas de XP.
 Estruturas de Decisão: Utilização de if/else para determinar o nível do herói.
 
 
-  Exemplo de Saída
+  Exemplo de Saída:
 
 Ao final, o programa exibirá a mensagem:
 O Herói de nome {nome} está no nível de {nível}
