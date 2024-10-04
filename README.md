@@ -22,6 +22,7 @@ Operadores: Para realizar as comparações das faixas de XP.
 Estruturas de Decisão: Utilização de if/else para determinar o nível do herói.
 
 
-  Saída
-Ao final deve se exibir uma mensagem:
-"O Herói de nome **{nome}** está no nível de **{nivel}**"
+  Exemplo de Saída
+Ao final, o programa exibirá a mensagem:
+O Herói de nome {nome} está no nível de {nível}
+
